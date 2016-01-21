@@ -3,7 +3,7 @@ SaltStacki platvorm on pythoni baasil vabavaraline confi-ja kaughalduse tarkvara
 Salti dokumentatsioon ja struktuur on raske algajatele, niiet kui tahad aru saada, pead basicu selgeks tegema.
 
 #ülesanded
-1. NTP
+1. [NTP](https://github.com/asjalik/saltstack/tree/master/salt/ntp)
 2. Basic
 3. Kasutajate haldamine
 4. Repode haldamine
