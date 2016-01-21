@@ -29,8 +29,8 @@
      - pkg: krb5-user
 
 #Liitub domeeniga
-#Käsk näeb välja selline: ec 'parool' | realm --verbose join --user=kasutajanimi domeen
-#Mina kasutasin pillaris olevaid andmeid, et neid kohti täita
+#K2sk n2äe v2lja selline: echo 'parool' | realm --verbose join --user=kasutajanimi domeen
+#Mina kasutasin pillaris olevaid andmeid, et neid kohti taita
  join_Domain:
    cmd.run:
      - name: echo '{{salt['pillar.get']('sssd:lookup:password')}}' | realm --verbose join --user={{salt['pillar.get']('sssd:lookup:username')}} {{salt['pillar.get']('sssd:lookup:domain')}}
