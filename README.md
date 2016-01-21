@@ -1,4 +1,4 @@
-#[saltstack](http://saltstack.com/)
+#[saltstack](#)
 SaltStacki platvorm on pythoni baasil vabavaraline confi-ja kaughalduse tarkvara mootor. Salti konkurendid on Puppet, Ansible ja Chef. Salt ei ole soovitatav nendele inimestele, kes alles hakkavad devops ja süsteemiautomatiseerimist õppima.
 Salti [dokumentatsioon](https://docs.saltstack.com/en/latest/) ja struktuur on raske algajatele, niiet kui tahad aru saada, pead basicu selgeks tegema.
 
@@ -14,7 +14,7 @@ Salti [dokumentatsioon](https://docs.saltstack.com/en/latest/) ja struktuur on r
 9. [Apache](https://github.com/asjalik/saltstack/tree/master/salt/apache)
 10. [Vsftpd](https://github.com/asjalik/saltstack/tree/master/salt/vsftpd)
 11. [OpenVPN](https://github.com/asjalik/saltstack/tree/master/salt/openvpn)
-12. [Pillariga mässamine(https://github.com/asjalik/saltstack/tree/master/pillar)
+12. [Pillariga mässamin](https://github.com/asjalik/saltstack/tree/master/pillar)
 13. [Filtreeri Salti andmeid via Python](https://github.com/asjalik/saltstack/tree/master/salt/scriptid)
 14. [Vm-tools install](https://github.com/asjalik/saltstack/tree/master/salt/vm-tools)
 15. [Wget install](https://github.com/asjalik/saltstack/tree/master/salt/wget)
