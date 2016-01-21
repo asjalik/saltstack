@@ -7,7 +7,7 @@ Salti [dokumentatsioon](https://docs.saltstack.com/en/latest/) ja struktuur on r
 2. Basic
 3. [Kasutajate haldamine](https://github.com/asjalik/saltstack/blob/master/salt/users/init.sls)
 4. [Repode haldamine](https://github.com/asjalik/saltstack/tree/master/salt/repod)
-5. Tarkvara install]
+5. Tarkvara install
 6. Domeeniga [liidestamine](https://github.com/asjalik/saltstack/tree/master/salt/sssd) ja [lahkumine](https://github.com/asjalik/saltstack/tree/master/salt/sssd_leaveDomain)
 7. [Uuendamine](https://github.com/asjalik/saltstack/tree/master/salt/update)
 8. [Zabbbix-agent](https://github.com/asjalik/saltstack/tree/master/salt/zabbix-agent)
